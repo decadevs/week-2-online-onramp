@@ -1,0 +1,23 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/positivelizzy/week-2-online-onramp.git"
+  },
+  "keywords": [
+    "Assignment",
+    "decagon"
+  ],
+  "author": "Positive Lizzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/positivelizzy/week-2-online-onramp/issues"
+  },
+  "homepage": "https://github.com/positivelizzy/week-2-online-onramp#readme"
+}
