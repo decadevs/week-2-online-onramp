@@ -1,0 +1,83 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.card{
+    margin: 10% 30%;
+    background-color: teal;
+    box-shadow: teal 2px 6px 12px;
+    display: inline-flex;
+    width: 35%;
+    border: none;
+    border-radius: 3%;
+    
+    
+}
+.title{
+    margin-top: 2rem;
+    margin-left: 1.3rem;
+}
+.form > form input{
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    
+}
+input[type='text']{
+    margin-top: 1rem;
+    margin-bottom: 0.553rem;
+    margin-left: 70%;
+    width: 15rem;
+    background-color: teal;
+    color: rgb(211, 189, 189);
+    border-style: none;
+    border-bottom: solid;
+    padding-left: none;
+    
+}
+input[type='tel'] {
+    margin-top: 1rem;
+    margin-left: 70%;
+    margin-bottom: 0.553rem;
+    width: 15rem;
+    background-color: teal;
+    color: rgb(211, 189, 189);
+    border-style: none;
+    border-bottom: solid;
+    padding-left: none;
+}
+input[type='email'] {
+    margin-top: 1rem;
+    margin-left: 70%;
+    margin-bottom: 0.553rem;
+    width: 15rem;
+    background-color: teal;
+    color: rgb(211, 189, 189);
+    border-style: none;
+    border-bottom: solid;
+    padding-left: none;
+}
+.cancel{
+    margin-bottom: 0.553rem;
+    margin-left: 50%;
+    transform: translateX(3rem);
+    width: 3rem;
+    background-color: teal;
+    color: rgb(211, 189, 189);
+    border: none;
+    font-weight: 400;
+    position: relative;
+    font-size: medium;
+}
+.send{
+    margin-bottom: 0.553rem;
+    width: 3rem;
+    transform: translateX(3.5rem);
+    background-color: teal;
+    position: relative;
+    color: rgb(211, 189, 189);
+    border: none;
+    font-weight: 400;
+    font-size: medium;
+}
